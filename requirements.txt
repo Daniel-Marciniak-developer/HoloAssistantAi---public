@@ -1,0 +1,10 @@
+openai>=1.0.0
+numpy>=1.20.0
+opencv-python>=4.5.0
+cvzone>=1.5.0
+scikit-learn>=1.0.0
+requests>=2.25.0
+SpeechRecognition>=3.8.0
+sounddevice>=0.4.0
+soundfile>=0.10.0
+python-dotenv>=0.19.0
